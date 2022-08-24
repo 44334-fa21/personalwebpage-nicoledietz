@@ -1,1 +1,10 @@
 /*Personal Web Page Style Sheet */
+Body {margin: 0;background-color: #ffefcc;font: Georgia;}
+h1{font: cursive;}
+h2{color: #c1e1d2;}
+b{color: #f1b9ac;}
+a:hover{color: #f2fdf1;}
+a:visited{color: #c1e1d2}
+a:link{color: #bfd1df;}
+.column {float: left;width: 50%;padding: 0px;height: 350px;}
+.row:after {content: "";display: table;clear: both;}
